@@ -1,8 +1,6 @@
 # emotes-api
 Fetches Twitch emotes from various providers (Twitch, 7TV, BTTV, FFZ).
 
-[![Clang analysis](https://status.crippled.dev/api/badge/5/status)](https://emotes.crippled.dev)
-
 # Endpoints
 - `/v1/channel/<username>/<provider>`
 - `/v1/global/<provider>`
